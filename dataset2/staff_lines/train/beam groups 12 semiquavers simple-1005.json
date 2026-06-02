@@ -1,0 +1,24 @@
+{
+  "image": "beam groups 12 semiquavers simple-1005",
+  "scaled_w": 1237,
+  "scaled_h": 1752,
+  "stave_count": 1,
+  "staves": [
+    {
+      "lines_px": [
+        212,
+        222,
+        233,
+        243,
+        253
+      ],
+      "lines_norm": [
+        0.121005,
+        0.126712,
+        0.132991,
+        0.138699,
+        0.144406
+      ]
+    }
+  ]
+}

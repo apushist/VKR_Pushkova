@@ -1,0 +1,24 @@
+{
+  "image": "beams 4-note directions-001",
+  "scaled_w": 1237,
+  "scaled_h": 1752,
+  "stave_count": 1,
+  "staves": [
+    {
+      "lines_px": [
+        333,
+        343,
+        353,
+        364,
+        374
+      ],
+      "lines_norm": [
+        0.190068,
+        0.195776,
+        0.201484,
+        0.207763,
+        0.21347
+      ]
+    }
+  ]
+}
