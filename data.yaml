@@ -1,0 +1,29 @@
+path: ./dataset2        
+train: images/train
+val:   images/val
+test:  images/test 
+
+nc: 16
+
+names:
+  0: notehead_filled     # закрашенная головка: четверть, восьмая и короче (noteheadBlack)
+  1: notehead_open       # пустая головка: половинная, целая (noteheadHalf, noteheadWhole)
+  2: sharp               # диез            ♯  (accidentalSharp)
+  3: flat                # бемоль          ♭  (accidentalFlat)
+  4: natural             # бекар           ♮  (accidentalNatural)
+  5: double_sharp        # дубль-диез × (accidentalDoubleSharp)
+  6: double_flat         # дубль-бемоль (accidentalDoubleFlat)
+  7: clef                # скрипичный ключ (gClef)
+  8: dot
+  9: stem
+  10: beam
+  11: rest1
+  12: rest2
+  13: other_clef
+  14: curve
+  15: other
+
+  
+
+# ── Примечания ────────────────────────────────────────────────────────────────
+# kStaffLine будем определять алгоритмами а не нейросетью
